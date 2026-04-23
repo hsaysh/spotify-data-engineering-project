@@ -1,72 +1,67 @@
 # 🎧 Spotify Data Engineering & Analytics Project
 
-##  Project Overview
-
-This project is an end-to-end data engineering and analytics solution built using MongoDB, Python, and Power BI. The goal of this project is to analyze Spotify music data and generate meaningful insights about songs, artists, and trends.
+An end-to-end data engineering and analytics project using MongoDB, Python, and Power BI to analyze Spotify music data and generate actionable insights.
 
 ---
 
-##  Project Description
+## 📌 Project Overview
 
-In this project, I designed a complete data pipeline starting from raw dataset ingestion to final visualization. The data was first stored in a NoSQL database (MongoDB), then extracted and transformed using Python, and finally visualized using Power BI dashboards.
-
-This project demonstrates practical implementation of both Data Engineering and Data Analytics concepts.
+This project focuses on building a complete data pipeline to analyze Spotify music data. It covers data ingestion, transformation, and visualization to extract meaningful insights about songs, artists, and trends.
 
 ---
 
-##  Tech Stack
+## ⚙️ Tech Stack
 
-* MongoDB (Database)
-* Python (Pandas, PyMongo)
-* Power BI (Dashboard & Visualization)
-* Excel (Data Cleaning)
-
----
-
-##  Data Pipeline (ETL Process)
-
-CSV Dataset → MongoDB → Python (Data Extraction & Transformation) → Cleaned CSV → Power BI Dashboard
+- **MongoDB** (NoSQL Database)
+- **Python** (Pandas, PyMongo)
+- **Power BI** (Data Visualization)
+- **Excel** (Data Cleaning)
 
 ---
 
-##  Dashboard Preview
+## 🔄 Data Pipeline (ETL Process)
 
-![Dashboard](dashboard.png)
-
----
-
-##  Key Insights
-
-* Medium popularity songs dominate the dataset
-* High popularity songs are fewer but impactful
-* Explicit content shows a consistent trend over time
-* Certain artists contribute significantly to song count
+CSV Dataset → MongoDB → Python (ETL) → Processed Data → Power BI Dashboard
 
 ---
 
-##  Project Files
+## 📊 Dashboard Preview
 
-* `fetch_data.py` → Python script for ETL process
-* `cleaned_spotify_data.csv` → Processed dataset
-* `Spotify_Analytics_Dashboard.pbix` → Power BI dashboard
+![Dashboard](https://raw.githubusercontent.com/hsaysh/Spotify-Project/main/dashboard.png)
 
 ---
 
-##  Conclusion
+## 🔍 Key Insights
 
-This project highlights my ability to work with real-world data and implement an end-to-end pipeline using modern data tools. It reflects my skills in data engineering, data transformation, and business intelligence.
+- Medium popularity songs dominate the dataset  
+- High popularity songs are fewer but more impactful  
+- Explicit content shows consistent trends  
+- Certain artists contribute significantly to total songs  
 
 ---
 
-## 👤 Author
+## 📁 Project Files
 
-**Yash Sharma**
+- `fetch_data.py` → Data extraction & transformation  
+- `cleaned_spotify_data.csv` → Processed dataset  
+- `Spotify_Analytics_Dashboard.pbix` → Power BI dashboard  
 
-🔗 [LinkedIn](https://www.linkedin.com/in/yash-sharma-5527ab398)
-🔗 [GitHub](https://github.com/hsaysh)
+---
+
+## 🎯 Conclusion
+
+This project demonstrates my ability to build an end-to-end data pipeline and derive business insights using modern data engineering and analytics tools.
+
+---
+
+## 👨‍💻 Author
+
+**Yash Sharma**  
+🔗 https://www.linkedin.com/in/yash-sharma-5527ab398  
+🔗 https://github.com/hsaysh  
+
+---
 
 ## ⭐ Support
-
-If you found this project useful, please give it a ⭐ on GitHub!
 
 If you found this project useful, please give it a ⭐ on GitHub!
