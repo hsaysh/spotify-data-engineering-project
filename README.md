@@ -54,7 +54,7 @@ CSV Dataset → MongoDB → Python (Data Extraction & Transformation) → Cleane
 
 ## 🔗 Connect with Me
 
-* 💼 LinkedIn: https://www.linkedin.com/in/yash-sharma-8a04b82b8
+* 💼 LinkedIn: [https://www.linkedin.com/in/yash-sharma-8a04b82b8](https://www.linkedin.com/in/yash-sharma-5527ab398/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bc7z8XH0tRbim89uvU%2Bq8sA%3D%3D)
 * 💻 GitHub: https://github.com/hsaysh
 
 ---
