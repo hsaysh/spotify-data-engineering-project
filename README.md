@@ -52,14 +52,19 @@ CSV Dataset → MongoDB → Python (Data Extraction & Transformation) → Cleane
 
 ---
 
-## 🔗 Connect with Me
-- 💼 [Linkedin](https://www.linkedin.com/in/yash-sharma-5527ab398)  
-- 💻 [GitHub](https://github.com/hsaysh)
-
----
-
 ## 📌 Conclusion
 
 This project highlights my ability to work with real-world data and implement an end-to-end pipeline using modern data tools. It reflects my skills in data engineering, data transformation, and business intelligence.
 
 ---
+
+## 👤 Author
+
+**Yash Sharma**
+
+🔗 [LinkedIn](https://www.linkedin.com/in/yash-sharma-5527ab398)
+🔗 [GitHub](https://github.com/hsaysh)
+
+## ⭐ Support
+
+If you found this project useful, please give it a ⭐ on GitHub!
