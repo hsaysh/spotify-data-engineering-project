@@ -27,7 +27,7 @@ CSV Dataset → MongoDB → Python (ETL) → Processed Data → Power BI Dashboa
 
 ## 📊 Dashboard Preview
 
-![Dashboard](https://raw.githubusercontent.com/hsaysh/Spotify-Project/main/dashboard.png)
+![Dashboard](dashboard.png)
 
 ---
 
