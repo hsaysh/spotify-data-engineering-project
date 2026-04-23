@@ -53,8 +53,8 @@ CSV Dataset → MongoDB → Python (Data Extraction & Transformation) → Cleane
 ---
 
 ## 🔗 Connect with Me
-- 💼 [Yash Sharma](https://www.linkedin.com/in/yash-sharma-8a04b82b8)  
-- 💻 [GitHub Profile](https://github.com/hsaysh)
+- 💼 [Linkedin](https://www.linkedin.com/in/yash-sharma-5527ab398)  
+- 💻 [GitHub](https://github.com/hsaysh)
 
 ---
 
