@@ -1,12 +1,12 @@
 # 🎧 Spotify Data Engineering & Analytics Project
 
-## 📌 Project Overview
+##  Project Overview
 
 This project is an end-to-end data engineering and analytics solution built using MongoDB, Python, and Power BI. The goal of this project is to analyze Spotify music data and generate meaningful insights about songs, artists, and trends.
 
 ---
 
-## 🚀 Project Description
+##  Project Description
 
 In this project, I designed a complete data pipeline starting from raw dataset ingestion to final visualization. The data was first stored in a NoSQL database (MongoDB), then extracted and transformed using Python, and finally visualized using Power BI dashboards.
 
@@ -14,7 +14,7 @@ This project demonstrates practical implementation of both Data Engineering and 
 
 ---
 
-## ⚙️ Tech Stack
+##  Tech Stack
 
 * MongoDB (Database)
 * Python (Pandas, PyMongo)
@@ -23,19 +23,19 @@ This project demonstrates practical implementation of both Data Engineering and 
 
 ---
 
-## 🔄 Data Pipeline (ETL Process)
+##  Data Pipeline (ETL Process)
 
 CSV Dataset → MongoDB → Python (Data Extraction & Transformation) → Cleaned CSV → Power BI Dashboard
 
 ---
 
-## 📊 Dashboard Preview
+##  Dashboard Preview
 
 ![Dashboard](dashboard.png)
 
 ---
 
-## 🧠 Key Insights
+##  Key Insights
 
 * Medium popularity songs dominate the dataset
 * High popularity songs are fewer but impactful
@@ -44,7 +44,7 @@ CSV Dataset → MongoDB → Python (Data Extraction & Transformation) → Cleane
 
 ---
 
-## 📂 Project Files
+##  Project Files
 
 * `fetch_data.py` → Python script for ETL process
 * `cleaned_spotify_data.csv` → Processed dataset
@@ -52,7 +52,7 @@ CSV Dataset → MongoDB → Python (Data Extraction & Transformation) → Cleane
 
 ---
 
-## 📌 Conclusion
+##  Conclusion
 
 This project highlights my ability to work with real-world data and implement an end-to-end pipeline using modern data tools. It reflects my skills in data engineering, data transformation, and business intelligence.
 
@@ -66,5 +66,7 @@ This project highlights my ability to work with real-world data and implement an
 🔗 [GitHub](https://github.com/hsaysh)
 
 ## ⭐ Support
+
+If you found this project useful, please give it a ⭐ on GitHub!
 
 If you found this project useful, please give it a ⭐ on GitHub!
